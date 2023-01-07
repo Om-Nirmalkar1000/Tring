@@ -1,0 +1,14 @@
+srv-------------------------->11
+tx------------------------>13
+rx------------------------>12
+buled--------------------->10
+keypad{
+starting from 2 continue 
+}
+lcd{
+scl--last
+sca-second last
+}
+(bt vcc----3.3
+ bt gnd----gnd
+)
